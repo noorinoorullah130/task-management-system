@@ -2,8 +2,10 @@ import React from 'react'
 
 const Form = () => {
   return (
-    <div>
-      
+    <div className='popup-overlay'>
+      <form className='form-content'>
+        
+      </form>
     </div>
   )
 }
